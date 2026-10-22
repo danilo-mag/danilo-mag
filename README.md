@@ -1,4 +1,4 @@
-<img src="linktree/danilo.jpeg" alt="Danilo" width="120" align="left" style="border-radius: 50%; margin-right: 16px;">
+<img src="avatar.png" alt="Danilo" width="120" align="left" style="border-radius: 50%; margin-right: 16px;">
 
 # Danilo — Desenvolvedor Full Stack
 
@@ -30,8 +30,3 @@ Construo sistemas sob medida — ERPs, CRMs e plataformas internas — para neg�
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danilo-mag&show_icons=true&theme=default&hide_title=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-mag&layout=compact&hide_title=true)
