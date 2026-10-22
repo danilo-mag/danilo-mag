@@ -1,12 +1,32 @@
-<img src="avatar.png" alt="Danilo" width="120" align="left" style="border-radius: 50%; margin-right: 16px;">
+<h1 align="center">Danilo Magalhães</h1>
 
-# Danilo — Desenvolvedor Full Stack
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;ERPs%2C+CRMs+e+sistemas+sob+medida;Do+banco+de+dados+%C3%A0+produ%C3%A7%C3%A3o;Um+sistema+pra+cada+neg%C3%B3cio" alt="Desenvolvedor Full Stack" />
+  </a>
+</p>
 
-Construo sistemas sob medida — ERPs, CRMs e plataformas internas — para negócios de setores bem diferentes entre si, do primeiro protótipo até o sistema em produção.
+<p align="center">
+  Construo sistemas sob medida — <b>ERPs</b>, <b>CRMs</b> e plataformas internas — para negócios de setores bem diferentes entre si.<br/>
+  Do primeiro protótipo ao sistema em produção, cuidando do banco de dados à interface.
+</p>
 
-<br clear="left">
+<p align="center">
+  <a href="https://wa.me/5538988370283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/danilo-marques-software-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/danilo-mag"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## O que eu construo
+---
+
+### // sobre
+
+- 🧩 Cuido do projeto inteiro — **modelagem de banco, back-end e interface** — não só de uma parte.
+- 🏗️ Foco em sistemas que resolvem um problema real de operação, não protótipo que fica na gaveta.
+- 🧱 Já construí para hotelaria, saúde, jurídico, imobiliário, construção civil, e-commerce, logística e educação.
+- 🔁 Gosto de projeto que começa do zero: entender o negócio, desenhar o banco, construir e colocar no ar.
+
+### // o que eu construo
 
 - Gestão hoteleira e hospitalidade
 - Sistemas para clínicas e saúde
@@ -17,16 +37,22 @@ Construo sistemas sob medida — ERPs, CRMs e plataformas internas — para neg�
 - Controle de estoque e logística
 - Educação e preparação para provas
 
-## Tecnologias
+### // stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+<p align="center">
+  <i>sistema sob medida, do banco de dados ao deploy 🚀</i>
+</p>
