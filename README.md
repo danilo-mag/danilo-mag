@@ -21,10 +21,10 @@
 
 ### // sobre
 
-- 🧩 Cuido do projeto inteiro — **modelagem de banco, back-end e interface** — não só de uma parte.
-- 🏗️ Foco em sistemas que resolvem um problema real de operação, não protótipo que fica na gaveta.
-- 🧱 Já construí para hotelaria, saúde, jurídico, imobiliário, construção civil, e-commerce, logística e educação.
-- 🔁 Gosto de projeto que começa do zero: entender o negócio, desenhar o banco, construir e colocar no ar.
+- 🧩 Atuo em todas as camadas do sistema — modelagem de banco de dados, back-end e interface.
+- 🛠️ Manutenção e evolução de sistemas legados: identifico problemas, corrijo e modernizo sem interromper a operação.
+- 🏢 Experiência em setores diversos: hotelaria, saúde, jurídico, imobiliário, construção civil, funerárias, e-commerce, logística e educação.
+- 🚀 Do primeiro protótipo à produção, com suporte contínuo depois que o sistema está no ar.
 
 ### // o que eu construo
 
@@ -33,9 +33,11 @@
 - Plataformas jurídicas
 - Imobiliário
 - Construção civil e obras
+- Gestão para funerárias
 - E-commerce e lojas digitais
 - Controle de estoque e logística
 - Educação e preparação para provas
+- Manutenção e suporte de sistemas legados
 
 ### // stack
 
