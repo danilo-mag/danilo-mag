@@ -92,6 +92,14 @@
       <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="GitHub Actions"/><br/>
       <sub><b>GitHub Actions</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/redis/FF4438" width="36" height="36" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pm2/2B037A" width="36" height="36" alt="PM2"/><br/>
+      <sub><b>PM2</b></sub>
+    </td>
   </tr>
 </table>
 
