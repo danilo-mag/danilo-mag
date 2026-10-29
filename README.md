@@ -8,7 +8,7 @@
 
 <p align="center">
   Construo sistemas sob medida — <b>ERPs</b>, <b>CRMs</b> e plataformas internas — para negócios de setores bem diferentes entre si.<br/>
-  Do primeiro protótipo ao sistema em produção, cuidando do banco de dados à interface.
+  Do primeiro protótipo ao sistema em produção, cuidando do banco de dados à interface — incluindo sistemas embarcados para máquinas.
 </p>
 
 <p align="center">
