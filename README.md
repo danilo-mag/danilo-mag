@@ -58,6 +58,43 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+### // infraestrutura
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare"/><br/>
+      <sub><b>Cloudflare</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/linux/000000" width="36" height="36" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx"/><br/>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/apache/D22128" width="36" height="36" alt="Apache"/><br/>
+      <sub><b>Apache</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="GitHub Actions"/><br/>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <p align="center">
