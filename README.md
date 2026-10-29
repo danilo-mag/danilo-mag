@@ -25,6 +25,7 @@
 - 🛠️ Manutenção e evolução de sistemas legados: identifico problemas, corrijo e modernizo sem interromper a operação.
 - 🏢 Experiência em setores diversos: hotelaria, saúde, jurídico, imobiliário, construção civil, funerárias, e-commerce, logística e educação.
 - 🚀 Do primeiro protótipo à produção, com suporte contínuo depois que o sistema está no ar.
+- 🤖 Automações, robôs de scraping e integração com aparelhos físicos (sensores, câmeras, hardware sob medida).
 
 ### // o que eu construo
 
@@ -38,6 +39,8 @@
 - Controle de estoque e logística
 - Educação e preparação para provas
 - Manutenção e suporte de sistemas legados
+- Automações e robôs de scraping
+- Integração e automação de aparelhos físicos (câmeras, sensores, hardware)
 
 ### // stack
 
@@ -52,6 +55,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
